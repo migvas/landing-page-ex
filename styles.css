@@ -74,6 +74,7 @@ button {
 .hero-image {
     width: 600px;
     height: 300px;
+    object-fit: cover;
     color: white;
     border: none;
 }
@@ -105,14 +106,22 @@ button {
 .card-image {
     width: 200px;
     height: 200px;  
-    border-radius: 4px;
+    border-radius: 8px;
     border: solid;
     border-color: red;
+    object-fit: cover;
+    object-position: top;
 }
 
 .card-text {
     color: white;
     font-size: 18px;
+    width: 200px;
+}
+
+.card-stats {
+    color: white;
+    font-size: 14px;
     width: 200px;
 }
 
