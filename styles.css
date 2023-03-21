@@ -22,7 +22,7 @@ body {
 .header .logo {
     font-size: 24px;
     color: #F9FAF8;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 .header .links,
@@ -50,7 +50,7 @@ ul {
 
 .hero-title {
     font-size: 48px;
-    font-weight: 800;
+    font-weight: 900;
     color: #F9FAF8;
     margin-bottom: 10px;
 }
@@ -91,7 +91,7 @@ button {
 
 .info-text {
     font-size: 36px;
-    font-weight: 800;
+    font-weight: 900;
     color: white;
     margin-bottom: 80px;
 }
@@ -140,7 +140,7 @@ button {
 
 .quote-author {
     font-size: 18px;
-    font-weight: 800;
+    font-weight: 900;
     color: #828791;
     text-align: end;
     margin-top: 10px;
@@ -166,7 +166,7 @@ button {
 
 .c2a-title {
     font-size: 18px;
-    font-weight: 800;
+    font-weight: 900;
     margin-bottom: 5px;
 }
 
